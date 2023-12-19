@@ -1,0 +1,2 @@
+# AnatomyNLM
+This repository contains the source codes linked to our tutorial "Anatomy of Neural Language Models". The formulas we derived for calculating the number of trainable parameters of language models are implemented. The results are compared against the parameter-counter utilities of Keras-NLP to prove the accuracy of the derived formulas. 
