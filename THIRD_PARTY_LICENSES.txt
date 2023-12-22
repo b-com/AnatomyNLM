@@ -1,0 +1,5 @@
+Library		Version	License					Link
+----------------------------------------------------------------------------------------------------------
+KerasNLP	0.6.3	Apache 2.0				https://github.com/keras-team/keras-nlp/blob/master/LICENSE
+Matplotlib	3.8.2 	 PSF based license			https://matplotlib.org/stable/users/project/license.html
+----------------------------------------------------------------------------------------------------------
