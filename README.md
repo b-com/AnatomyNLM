@@ -12,3 +12,10 @@ If you use this repository, please cite the following paper:
   year={2024}
 }
 ```
+
+## Setup instructions
+
+1.	Clone the repository to your local machine.
+2.	Create a virtual environment: python 3.10
+3.	Activate your virtual environment
+4.	Install the requirements: ``pip install -r requirements.txt``
